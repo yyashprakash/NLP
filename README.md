@@ -12,7 +12,7 @@ https://github.com/rapraka/NLP/blob/master/NLP_Topic%20modeling_NMF%20Algorithm.
 
 
 
-Reference:
+References:
 
 1. https://stackoverflow.com/questions/42068474/tfidfvectorizer-how-does-the-vectorizer-with-fixed-vocab-deal-with-new-words/42069027
 
