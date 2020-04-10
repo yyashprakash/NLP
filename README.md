@@ -13,13 +13,14 @@ https://github.com/rapraka/NLP/blob/master/NLP_Topic%20modeling_NMF%20Algorithm.
 
 
 Reference:
-https://stackoverflow.com/questions/42068474/tfidfvectorizer-how-does-the-vectorizer-with-fixed-vocab-deal-with-new-words/42069027
 
-https://towardsdatascience.com/testing-the-waters-with-nltk-3600574f891c
+1. https://stackoverflow.com/questions/42068474/tfidfvectorizer-how-does-the-vectorizer-with-fixed-vocab-deal-with-new-words/42069027
 
-https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386
+2. https://towardsdatascience.com/testing-the-waters-with-nltk-3600574f891c
 
-https://towardsdatascience.com/sentiment-analysis-with-text-mining-13dd2b33de27
+3. https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386
 
-https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
+4. https://towardsdatascience.com/sentiment-analysis-with-text-mining-13dd2b33de27
+
+5. https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
 
